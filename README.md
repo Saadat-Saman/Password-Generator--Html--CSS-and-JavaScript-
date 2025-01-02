@@ -1,4 +1,4 @@
-Password Generator 
+## Password Generator 
 
 ## Overview
 This project is developed by Html, CSS and JavaScript. 
@@ -7,7 +7,7 @@ This project is developed by Html, CSS and JavaScript.
 
 ### Screenshot
 
-![](/social-links-profile.png)
+![](/Screenshot_36.jpg)
 
 
 
